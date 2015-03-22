@@ -10,6 +10,7 @@ public class Field {
      * 
      */
     public Field() {
+    	System.out.println("Lofasz");
     }
 
     /**
