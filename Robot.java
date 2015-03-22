@@ -74,7 +74,7 @@ public class Robot {
      * @param Field field 
      * @return
      */
-    public void puttingSpot(void Field field) {
+    public void puttingSpot(Field field) {
         // TODO implement here
         return null;
     }
@@ -83,7 +83,7 @@ public class Robot {
      * @param Point p 
      * @return
      */
-    public void setPositon(void Point p) {
+    public void setPositon(Point p) {
         // TODO implement here
         return null;
     }
