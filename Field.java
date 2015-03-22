@@ -10,7 +10,7 @@ public class Field {
      * 
      */
     public Field() {
-    	System.out.println("Lofasz2");
+    	System.out.println("Lofasz");
     }
 
     /**
