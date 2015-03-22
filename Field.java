@@ -1,4 +1,3 @@
-//miklós buzi
 import java.util.*;
 
 /**
@@ -10,7 +9,7 @@ public class Field {
      * 
      */
     public Field() {
-    	System.out.println("Lofasz");
+    	System.out.println("A kurvak faszat");
     }
 
     /**
