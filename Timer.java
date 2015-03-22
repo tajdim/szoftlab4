@@ -32,7 +32,7 @@ public class Timer {
      * @param String command 
      * @return
      */
-    public void setActionCommand(void String command) {
+    public void setActionCommand(String command) {
         // TODO implement here
         return null;
     }
