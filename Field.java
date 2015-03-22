@@ -26,7 +26,7 @@ public class Field {
      * @param Robot robot 
      * @return
      */
-    public void jumpedOn(void Robot robot) {
+    public void jumpedOn(Robot robot) {
         // TODO implement here
         return null;
     }
@@ -35,7 +35,7 @@ public class Field {
      * @param Boolean b 
      * @return
      */
-    public void setChangeDirection(void Boolean b) {
+    public void setChangeDirection(Boolean b) {
         // TODO implement here
         return null;
     }
@@ -44,7 +44,7 @@ public class Field {
      * @param Boolean b 
      * @return
      */
-    public void setChangeSpeed(void Boolean b) {
+    public void setChangeSpeed(Boolean b) {
         // TODO implement here
         return null;
     }
