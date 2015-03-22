@@ -36,7 +36,7 @@ public class Game {
     /**
      * 
      */
-    public GameMap 1;
+    public GameMap gamemap;
 
 
 
@@ -44,7 +44,7 @@ public class Game {
      * @param String robotName 
      * @return
      */
-    public Point newPosition(void String robotName) {
+    public Point newPosition(String robotName) {
         // TODO implement here
         return null;
     }
