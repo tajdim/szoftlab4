@@ -23,7 +23,7 @@ public class GameMap {
      * @param Point fieldPosition 
      * @return
      */
-    public Field getFieldAtIndex(void Point fieldPosition) {
+    public Field getFieldAtIndex(Point fieldPosition) {
         // TODO implement here
         return null;
     }
@@ -33,7 +33,7 @@ public class GameMap {
      * @param Field fieldType 
      * @return
      */
-    public void setFieldAtIndex(void Point fieldPosition, void Field fieldType) {
+    public void setFieldAtIndex(Point fieldPosition,Field fieldType) {
         // TODO implement here
         return null;
     }
